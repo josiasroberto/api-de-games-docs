@@ -1,10 +1,10 @@
-#API de Games
+# API de Games
 
-##Endpoints
+## Endpoints
 ### GET /games
 Return all games registered on Database
 
-####Parameters
+#### Parameters
 None
 
 #### Responses
